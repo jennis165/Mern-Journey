@@ -1,0 +1,29 @@
+h2{
+    background-color: blueviolet;
+    border-style:solid;
+    border-width: 2px;
+    border-radius: 6px;
+    width: 85px;
+    padding: 2px;
+    
+    
+    
+    
+}
+.para{
+    font-size: 25px;
+    background-color: mediumturquoise;
+    color: brown;
+    border-style: solid;
+border-color: black;
+border-width: 3px;
+border-radius: 6px;
+padding: 10px;
+margin-bottom: 60px;
+
+
+}
+.para:hover{
+    color: blueviolet;
+}
+
