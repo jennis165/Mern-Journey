@@ -1,0 +1,10 @@
+.section{ border-style:solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px ;
+    width: 80%;
+    }
+    body{
+        background-color: lightgray;
+    }
+   
