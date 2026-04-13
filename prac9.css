@@ -1,0 +1,26 @@
+p{
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 900;
+    
+    
+}
+#firstPara{
+    background-color: yellowgreen;
+    color: red;
+
+}
+#secondPara{
+    background-color: grey;
+    color: aqua;
+}
+
+#thirdPara{
+    background-color: aquamarine;
+    color: brown;
+}
+#fourthPara{
+    background-color: cornflowerblue;
+    color: burlywood;
+    
+}
